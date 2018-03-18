@@ -25,3 +25,7 @@ Traverses the xml file of an Android application and identifies the permissions 
 ### flows
 
 Traverses the smali code of an Android application and identifies potential flows from a source to a sink
+
+## Execution
+
+For each packet locate the class with the main function and simply execute the class as a normal java application.
