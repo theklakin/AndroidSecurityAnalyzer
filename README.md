@@ -12,7 +12,7 @@ Each feature is implemented as a standalone packet which can be nividually invok
 
 ### advert
 
-Traversse the smali code of an Android application and locates all the files that use the *loadAd* method.
+Traverses the smali code of an Android application and locates all the files that use the *loadAd* method.
 
 ### internet
 
